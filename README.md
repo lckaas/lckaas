@@ -12,11 +12,14 @@ I'm currently learning more about web development and mobile application develop
 
 ## Education
 🎓: University of Cincinnati
+<br />
 📜: Software Application Development - Information Technology
+<br />
 🧑‍🎓: Magna Cum Laude
 
 ## Work
 🏢: CTI Clinical Trials & Consulting Services
+<br />
 📜: Software Developer
 
 ## Socials
