@@ -2,7 +2,7 @@
 
 I'm @lckaas, a Software Developer.
 
-I enjoy developing Websites, Databases, and Mobile Applications 
+I enjoy developing websites, databases, and mobile applications 
 
 I'm currently learning more about web development and mobile application development
 
