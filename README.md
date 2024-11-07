@@ -10,6 +10,15 @@ I'm currently learning more about web development and mobile application develop
 
 ✉️: loganckaas@gmail.com
 
+## Education
+🎓: University of Cincinnati
+📜: Software Application Development - Information Technology
+🧑‍🎓: Magna Cum Laude
+
+## Work
+🏢: CTI Clinical Trials & Consulting Services
+📜: Software Developer
+
 ## Socials
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> &nbsp; https://www.linkedin.com/in/logankaas
